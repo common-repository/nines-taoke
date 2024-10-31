@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ennnnny/tbk": "^0.4.2",
+        "dtk-developer/openapi-sdk-php": "^1.0"
+    }
+}
